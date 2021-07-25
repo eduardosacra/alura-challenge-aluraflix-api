@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-Basicamente, este projeto busca fornecer os serviços de *backend* de uma nova **plataforma de compartilhamento de vídeos**. A plataforma deve permitir ao usuário montar playlists com links para seus vídeos preferidos, separados por categorias.
+Este projeto busca fornecer os serviços de *back-end* de uma nova **plataforma de compartilhamento de vídeos**. A plataforma deve permitir ao usuário montar playlists com links para seus vídeos preferidos, separados por categorias.
 
 As principais funcionalidades a serem implementadas são:
 
