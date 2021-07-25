@@ -19,6 +19,9 @@ Execute os Scripts SQL, para criar o Database, Tabela e procedures, que estão l
 
 ```bash
 ├───scripts
+    └───01-scripts.sql
+    └───02-PRC_INSERT_VIDEO.sql
+    └───03-PROC_CONSULTAR_VIDEOS.sql
 
 ```
 
