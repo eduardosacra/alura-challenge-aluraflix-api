@@ -1,4 +1,4 @@
-# AluraFlix Backend API
+# AluraFlix Back-End API
 
 # Sobre o projeto
 
